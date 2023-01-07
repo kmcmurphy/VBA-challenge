@@ -1,5 +1,7 @@
 # VBA-challenge 
-This script analyzes multiple years of stock data, creating new summary tables to calculate different metrics.
+This script analyzes multiple years of stock data, creating new summary tables to calculate different metrics. 
+
+Included in this repo are the VBA script with the StockAnalysis subroutine, a sample data set and images of the results when the script was run on a full data set.
 
 ## Metrics calculated
 1. Summary of stocks in list by ticker
