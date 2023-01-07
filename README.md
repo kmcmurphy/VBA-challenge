@@ -16,6 +16,17 @@ The script contains a routine called StockAnalysis that when run,
 - Outputs and winners and losers
 - Continues to the next sheet to start again
 
+### Setup 
+In order for the script to work, you need a worksheet with the following columns with headers:
+- The ticker symbol
+- Date
+- Daily opening price
+- Daily high price
+- Daily low price
+- Daily closing price
+- Daily volume
+
+<img src="https://github.com/kmcmurphy/VBA-challenge/blob/main/worksheet_setup.png" width = "50%" alt="Worksheet setup" />
 
 After the script ran on the full dataset, here are a summary of the results from each worksheet (year):
 
