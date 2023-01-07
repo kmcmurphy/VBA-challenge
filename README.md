@@ -11,10 +11,13 @@ This script analyzes multiple years of stock data, creating new summary tables t
 After the script ran on the full dataset, here are a summary of the results from each worksheet (year):
 
 ### 2018 Results
-<img src="https://github.com/kmcmurphy/VBA-challenge/blob/main/2018_results.png" width = "50%", alt="2018 Results">
+
+<img src="https://github.com/kmcmurphy/VBA-challenge/blob/main/2018_results.png" width = "50%" alt="2018 Results" />
 
 ### 2019 Results
-<img src="https://github.com/kmcmurphy/VBA-challenge/blob/main/2019_results.png" width = "50%", alt="2018 Results">
+
+<img src="https://github.com/kmcmurphy/VBA-challenge/blob/main/2019_results.png" width = "50%" alt="2018 Results" />
 
 ### 2020 Results
-<img src="https://github.com/kmcmurphy/VBA-challenge/blob/main/2020_results.png" width = "50%", alt="2018 Results">
+
+<img src="https://github.com/kmcmurphy/VBA-challenge/blob/main/2020_results.png" width = "50%" alt="2018 Results" />
