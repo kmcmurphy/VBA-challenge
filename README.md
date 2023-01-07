@@ -8,6 +8,15 @@ This script analyzes multiple years of stock data, creating new summary tables t
 4. The stock with the greatest decrease annually
 5. The stock with the greatest total value
 
+## Overview
+The script contains a routine called StockAnalysis that when run,
+- Creates an output table to summarize the data
+- Loops through each row in the spreadsheet
+- Creates a list of all stock tickers in the sheet
+- Outputs and winners and losers
+- Continues to the next sheet to start again
+
+
 After the script ran on the full dataset, here are a summary of the results from each worksheet (year):
 
 ### 2018 Results
